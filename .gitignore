@@ -1,7 +1,7 @@
-out/
 .idea/
 GitTest9.iml
 **/*.log
+out/
 
 
 ### Mac OS ###
