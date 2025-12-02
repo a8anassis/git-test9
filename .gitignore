@@ -2,6 +2,7 @@
 GitTest9.iml
 **/*.log
 out/
+git-test9.iml
 
 
 ### Mac OS ###
